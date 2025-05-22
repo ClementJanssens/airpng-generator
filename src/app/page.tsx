@@ -311,7 +311,7 @@ export default function AirbnbGenerator() {
                 >
                   <div className="mb-3">
                     <p className="text-sm text-gray-600 font-medium">
-                      "{image.prompt}"
+                      &quot;{image.prompt}&quot;
                     </p>
                   </div>
                   <Image
